@@ -72,8 +72,8 @@ L'API utilise une classe `Pokemon`, définie à l'aide de `dataclass` pour repr�
 
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/TheBeyonder237/fastapi_pokemon.git
-   cd fastapi_pokemon
+   git clone https://github.com/TheBeyonder237/pokemon_fastapi.git
+   cd pokemon_fastapi
    ```
 
 2. Installez les dépendances :
